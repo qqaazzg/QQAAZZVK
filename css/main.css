@@ -131,7 +131,7 @@
 }
 
 .vk:hover .circle {
-  /*fill: #ffffff;*/
+  fill: #000000;
   /*fill-opacity: 1;*/
   -webkit-animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorVK 1s linear forwards;
           animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorVK 1s linear forwards;
