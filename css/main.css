@@ -78,7 +78,7 @@
     position: relative;
     margin: 0;
     padding: 0;
-    color: #0088cc;
+    color: #000;
     text-align: center;
     font-size: 1.1em;
     font-weight: 100;
@@ -91,7 +91,7 @@
     position: relative;
     margin: 0;
     padding: 0;
-    color: #f9f1e9;
+    color: #000;
     text-align: center;
     width: 12em;
     height: 4em;
@@ -107,7 +107,7 @@
 
 .socials .icon .circle {
   fill: none;
-  stroke: #ffffff;
+  stroke: #000;
   stroke-width: 5px;
   stroke-dasharray: 40;
   width: 2em;
@@ -191,7 +191,7 @@
 
 @-webkit-keyframes colorVK {
   from {
-    stroke: #ffffff;
+    stroke: #000000;
   }
   to {
     stroke: #45668e;
@@ -199,7 +199,7 @@
 }
 @keyframes colorVK {
   from {
-    stroke: #ffffff;
+    stroke: #000000;
   }
   to {
     stroke: #45668e;
