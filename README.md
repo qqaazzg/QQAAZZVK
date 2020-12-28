@@ -6,4 +6,4 @@
 
 # Screenshots
 
-![alt tag](https://raw.githubusercontent.com/qqaazzg/QQAAZZVK/main/img/vk.png)
+![alt tag](https://raw.githubusercontent.com/qqaazzg/QQAAZZVK/main/img/qqaazz.png)
