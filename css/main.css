@@ -131,14 +131,13 @@
 }
 
 .vk:hover .circle {
-  fill: #000000;
   /*fill-opacity: 1;*/
   -webkit-animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorVK 1s linear forwards;
           animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorVK 1s linear forwards;
 }
 
 .vk:hover object {
-  fill: #000;
+  fill: #fff;
 }
 
 .facebook:hover .circle {
@@ -191,7 +190,7 @@
 
 @-webkit-keyframes colorVK {
   from {
-    stroke: #000000;
+    stroke: #ffffff;
   }
   to {
     stroke: #45668e;
@@ -199,7 +198,7 @@
 }
 @keyframes colorVK {
   from {
-    stroke: #000000;
+    stroke: #ffffff;
   }
   to {
     stroke: #45668e;
