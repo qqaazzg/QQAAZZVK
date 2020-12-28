@@ -2,7 +2,7 @@
 
 Авторы - [QQAAZZ CREAM GROUP](https://vk.com/qqaazzgroups)
 
-Сайт - [QAAZZVK](https://qqaazzg.github.io/QQKKXX/)
+Сайт - [QAAZZVK](https://qqaazzg.github.io/QQAAZZVK/)
 
 # Screenshots
 
