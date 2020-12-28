@@ -36,6 +36,68 @@
     box-shadow: 0px 2px 2px 0px rgba(34,34,34,0.05);
 }
 
+.btn-tk {
+    float: left;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    color: #f9f1e9;
+    text-align: center;
+    width: 12em;
+    height: 2em;
+    left: 50%;
+    top: 0;
+    font-size: 4.2em;
+    transform: translate3d(-50%, 0, 0);
+    width: 120px;
+    height: 120px;
+    background: url(https://raw.githubusercontent.com/qqaazzg/QQAAZZVK/main/img/next.png) no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 40%;
+    bottom: 1px;
+    right: 15px;
+    border: 0px solid #dedede;
+    transition: 0.3s all ease;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    -webkit-box-shadow: 0px 2px 2px 0px rgba(34,34,34,0.05);
+    -moz-box-shadow: 0px 2px 2px 0px rgba(34,34,34,0.05);
+    box-shadow: 0px 2px 2px 0px rgba(34,34,34,0.05);
+}
+
+.btn-in {
+    float: left;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    color: #f9f1e9;
+    text-align: center;
+    width: 12em;
+    height: 2em;
+    left: 50%;
+    top: 0;
+    font-size: 4.2em;
+    transform: translate3d(-50%, 0, 0);
+    width: 120px;
+    height: 120px;
+    background: url(https://raw.githubusercontent.com/qqaazzg/QQAAZZVK/main/img/next.png) no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 40%;
+    bottom: 1px;
+    right: 15px;
+    border: 0px solid #dedede;
+    transition: 0.3s all ease;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    -webkit-box-shadow: 0px 2px 2px 0px rgba(34,34,34,0.05);
+    -moz-box-shadow: 0px 2px 2px 0px rgba(34,34,34,0.05);
+    box-shadow: 0px 2px 2px 0px rgba(34,34,34,0.05);
+}
+
 .wrapper {
   position: absolute;
   top: 0;
